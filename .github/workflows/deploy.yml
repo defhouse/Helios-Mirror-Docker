@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: kamileecher/mltbot:latest
+          tags: anshumanpm2006/mltb:latest
